@@ -1,139 +1,129 @@
 # Abhishek Kumar Yadav
 
-**AI/ML Engineer · Generative AI · LLM Applications · RAG · Agentic Systems**
+### AI/ML Engineer · Data Science · Generative AI
 
-I build **AI applications and backend systems** with a focus on LLM workflows, retrieval, agent orchestration, APIs, and production-oriented engineering.
+I build **applied AI/ML systems** that move from data and experimentation toward production-ready applications, with a focus on **Agentic AI, LLM orchestration, machine learning, and intelligent data products**.
 
-Currently strengthening the foundations behind these systems: **machine learning, deep learning, DSA, backend engineering, MLOps, and system design**.
+B.Tech CSE student at **Haridwar University (2027)** with hands-on experience across machine learning, deep learning, RAG, multi-agent systems, APIs, databases, and deployment.
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [GitHub](https://github.com/Abhishek01112002) · [Email](mailto:ahishek0111@gmail.com)
-
----
-
-## Technical Focus
-
-**AI / Generative AI**  
-LLMs · RAG · Agents · LangChain · LangGraph · MCP · Tool Calling · Structured Outputs · Human-in-the-Loop
-
-**Machine Learning**  
-Supervised Learning · NLP · Feature Engineering · Model Evaluation · Scikit-learn · Statistics · Data Analysis
-
-**Retrieval & AI Systems**  
-Embeddings · Semantic Search · Vector Databases · ChromaDB · FAISS · Multimodal Retrieval · CLIP
-
-**Primary Backend**  
-Python · FastAPI · REST APIs · SQLAlchemy · PostgreSQL · JWT
-
-**Project Exposure**  
-Node.js · Express · Redis · Socket.IO · React · TypeScript · Flutter · Dart
-
-**Engineering**  
-Git · GitHub · Docker · CI/CD · Testing · Observability · API Design · System Design
-
-> **Note:** Primary skills represent technologies I am actively building depth in. Project exposure represents technologies used while building larger systems.
+[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [Email](mailto:abhishekkryadav01112002@gmail.com)
 
 ---
 
-## Featured Work
+## Core Expertise
 
-### AgentMark — Multi-Agent AI Marketing Platform
+**Generative AI & Agentic Systems**  
+LangChain · LangGraph · RAG · Vectorless RAG · FastMCP · LLM Orchestration · Human-in-the-Loop
 
-A full-stack AI platform for research, strategy, copywriting, visual prompting, evaluation, human approval, and publishing through a stateful agent workflow.
+**Machine Learning & Data Science**  
+Scikit-learn · Pandas · NumPy · Regression · Classification · Clustering · NLP · Feature Engineering · Model Evaluation
 
-**Architecture**  
-React/TypeScript → Node.js/Express → FastAPI AI Service → LangGraph → Redis/PostgreSQL → MCP
+**Deep Learning**  
+TensorFlow · CNNs · RNNs · Representation Learning · Two-Tower Models
 
-**Engineering highlights**
-- Stateful multi-agent orchestration with explicit workflow state and routing
-- Retrieval and brand-context management for grounded generation
-- Independent evaluation and layered policy gates
-- Human-in-the-loop approval before downstream actions
-- Realtime workflow updates through Redis Pub/Sub and Socket.IO
-- Service-to-service authentication and structured request validation
-- OpenTelemetry tracing and structured audit logging
-- MCP integration for external AI clients
+**Backend & Data Infrastructure**  
+FastAPI · REST APIs · PostgreSQL · Redis · SQLAlchemy · Docker · Git · GitHub Actions
 
-**Primary AI/backend stack:** Python · FastAPI · LangGraph · LangChain · PostgreSQL · Pydantic  
-**Additional project stack:** Node.js · TypeScript · Redis · Socket.IO · MCP
-
-[View repository →](https://github.com/Abhishek01112002/AgentMark)
+**Application Development**  
+Streamlit · React · TypeScript · JavaScript
 
 ---
 
-### SafeRoute — Safety & Emergency Response Platform
+## Featured Projects
 
-A multi-surface safety platform for remote and low-connectivity travel, combining a FastAPI backend, Flutter application, and React authority dashboard.
+### [AgentMark](https://github.com/Abhishek01112002/AgentMark)
+**Multi-Agent AI Marketing OS & Simulation Engine**
 
-**Engineering highlights**
-- JWT-based identity and role-aware authorization
-- Geospatial safety zones and trip planning
-- BLE-based SOS relay for constrained connectivity
-- Idempotent SOS queueing and delivery audit trails
-- HMAC-signed relay packets with freshness validation
-- Offline-first local storage and synchronization
-- Async backend architecture with PostgreSQL-ready persistence
-- Authority dashboard for operational safety-event triage
+- Architected an **8-agent LangGraph workflow** with synthetic focus-group simulation, demographic personas, Cognitive Friction Index, and human-in-the-loop review.
+- Engineered a **Brand DNA Vault** using Hybrid RRF Search and memory-decay learning, reducing prompt context overhead by **80.7% (14.5K → 2.8K tokens)**.
+- Built **Redis Pub/Sub + FastMCP** integration for real-time LLM reasoning-state streaming with **sub-100ms latency** and session restoration.
 
-**Primary stack:** Python · FastAPI · Async SQLAlchemy  
-**Additional project stack:** Flutter · React · TypeScript · SQLite · BLE · JWT
-
-[View repository →](https://github.com/Abhishek01112002/SafeRoute)
+**Stack:** Python · LangGraph · FastAPI · Redis · React · TypeScript · FastMCP
 
 ---
 
-### RAG Mastery — Advanced & Multimodal RAG
+### [Moodify](https://github.com/Abhishek01112002/Moodify)
+**Hybrid Music Recommendation System**
 
-A practical implementation path from document ingestion and semantic retrieval to multimodal RAG over **text and PDF images**.
+- Built a hybrid recommender combining **FAISS vector search, TF-IDF matching, and popularity re-ranking**.
+- Developed a custom self-supervised **Two-Tower TensorFlow model** for learning audio embeddings.
+- Achieved **0.47 Precision@10** and **0.49 NDCG@10** in offline evaluation.
+- Added explainable AI with SHAP and CI-based smoke testing with **19 unit tests**.
 
-**Engineering highlights**
-- Recursive document splitting and metadata-aware ingestion
-- Dense embeddings with SentenceTransformers
-- ChromaDB and FAISS retrieval pipelines
-- CLIP-based joint text/image embedding space
-- PDF image extraction with PyMuPDF
-- Vision-LLM generation over retrieved multimodal context
-- Retrieval and similarity-search experimentation
-
-**Stack:** LangChain · SentenceTransformers · ChromaDB · FAISS · CLIP · PyMuPDF · Groq
-
-[View repository →](https://github.com/Abhishek01112002/RAG_Mastery)
+**Stack:** Python · TensorFlow · FAISS · Streamlit · SHAP
 
 ---
 
-## Selected Projects
+### [Customer Churn Prediction](https://github.com/Abhishek01112002/customer-churn-prediction)
+**Production ML Classification System**
 
-| Project | Focus |
-|---|---|
-| [LangChain Mastery](https://github.com/Abhishek01112002/Langchain_Mastery) | LangChain patterns and practical experimentation |
-| [DocAI Health Assistant](https://github.com/Abhishek01112002/DocAI-Health-Assistant) | LLM-powered document workflows |
-| [Customer Churn Prediction](https://github.com/Abhishek01112002/customer-churn-prediction) | Applied ML and model evaluation |
-| [Spotify Music Recommender](https://github.com/Abhishek01112002/spotify-music-recommender) | Recommendation systems and data processing |
-| [Ticket Escalation System](https://github.com/Abhishek01112002/Ticket-Escalation-System) | Backend workflow engineering |
+- Developed an end-to-end churn classification pipeline using **XGBoost + SMOTE**.
+- Engineered service-level features and achieved **0.62 F1-score** and **0.84 ROC-AUC**.
+- Built a decoupled **FastAPI REST API** supporting JSON and batch CSV inference.
+- Containerized the architecture with Docker Compose and automated testing through **GitHub Actions**.
+
+**Stack:** Python · XGBoost · FastAPI · Docker · Streamlit
 
 ---
 
-## Engineering Approach
+### [Credit Card Fraud Detection](https://github.com/Abhishek01112002/Credit-Card-Fraud-Detection)
+**Deep Learning Anomaly Detection**
 
-- **Understand before abstracting.** Learn the underlying mechanism, not only the framework API.
-- **Design explicit boundaries.** Keep responsibilities, contracts, and data flow clear.
-- **Build for failure.** Validation, authentication, timeouts, retries, idempotency, and graceful degradation matter.
-- **Make AI systems observable.** Track state, failures, outputs, and evaluation signals.
-- **Move beyond notebooks.** Experiments are useful; maintainable services are the goal.
+- Designed an anomaly-detection workflow over **284,800+ transactions**.
+- Addressed severe class imbalance using **SMOTE**.
+- Trained TensorFlow models achieving **94% recall**.
+
+**Stack:** Python · TensorFlow · Scikit-learn · SMOTE
+
+---
+
+## Experience
+
+### Data Science Intern — Certed Technologies
+**June 2025 · Haridwar, India**
+
+- Engineered an end-to-end unsupervised learning pipeline using **statistical modeling, PCA, and K-Means clustering** for high-dimensional feature optimization.
+- Conducted EDA and feature engineering with standard scaling on structured datasets containing **232K+ records**.
+
+---
+
+## Education
+
+**B.Tech in Computer Science & Engineering**  
+Haridwar University · Expected 2027 · **76%**
+
+## Certification & Leadership
+
+- **Elite Certification in Data Science for Engineers** — NPTEL, IIT Madras
+- **Two-Time National Hackathon Team Leader**
+- **1st Place — AI Quiz** among 50+ teams
+
+---
+
+## Engineering Philosophy
+
+- **Understand the fundamentals** behind the frameworks I use.
+- **Design explicit system boundaries** and clear data contracts.
+- **Build for production:** validation, testing, observability, and failure handling matter.
+- **Measure AI systems:** evaluate retrieval, model quality, latency, and resource usage.
+- **Move beyond notebooks:** turn experiments into maintainable, deployable systems.
 
 ---
 
 ## Current Focus
 
-**DSA · Machine Learning · Deep Learning · LLM Systems · MLOps · Backend Systems · System Design**
+**DSA · Machine Learning · Deep Learning · LLM Systems · MLOps · Backend Engineering · System Design**
 
-Building the depth required to reason about AI systems from **algorithmic fundamentals through production architecture**.
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [GitHub](https://github.com/Abhishek01112002) · [Email](mailto:ahishek0111@gmail.com)
+My goal is to build the depth required to reason about AI systems end-to-end — from **data and algorithms to model behavior, system architecture, and production deployment**.
 
 ---
 
-*Building AI systems with strong fundamentals, clear architecture, and disciplined engineering.*
+### Let's Connect
+
+If you're working on **AI/ML, Generative AI, Agentic AI, or applied Data Science**, feel free to connect.
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [GitHub](https://github.com/Abhishek01112002) · [Email](mailto:abhishekkryadav01112002@gmail.com)
+
+---
+
+*Building AI systems with strong fundamentals, measurable results, and disciplined engineering.*
