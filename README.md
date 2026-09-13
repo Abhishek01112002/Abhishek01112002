@@ -1,12 +1,12 @@
 <div align="center"><img src="assets/hero.svg" width="100%" alt="Abhishek Kumar Yadav — AI ML Engineer GenAI RAG Agentic Systems"/><br/><a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-111827?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;<a href="mailto:ahishek0111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a><br/><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&weight=600&pause=1100&color=4EA1FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%E2%86%92+LLM+Systems+%E2%86%92+Production+AI;RAG+%7C+Agents+%7C+Evaluation+%7C+Guardrails;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+LangGraph" alt="focus animation"/></div>
 
-# ✦ What I Build
+# What I Build
 <div align="center"><img src="assets/what-i-build.svg" width="100%" alt="What I build — AI ML, retrieval, agents and engineering"/></div>
 <div align="center"><b>MODEL</b> → <b>RETRIEVAL</b> → <b>ORCHESTRATION</b> → <b>RELIABILITY</b> → <b>PRODUCTION</b></div>
 
 ---
 
-# 🚀 Systems I've Built
+# Systems I've Built
 <div align="center"><img src="assets/agentmark.svg" width="100%" alt="AgentMark"/></div>
 **AgentMark** is a full-stack multi-agent AI platform for research, strategy, copy generation, evaluation, human approval and publishing.
 
@@ -27,28 +27,28 @@
 
 ---
 
-# 🧠 My AI Stack
+# My AI Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,github,react,typescript,nodejs,flutter&perline=6" alt="technology stack"/><br/><br/><b>GENAI</b> · `RAG` · `Embeddings` · `Vector Search` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Structured Outputs` · `LLM Evals` · `Guardrails`<br/><br/><b>ML</b> · `NumPy` · `Pandas` · `Scikit-learn` · `XGBoost` · `Feature Engineering` · `Model Evaluation` · `Deep Learning`<br/><br/><b>ENGINEERING</b> · `FastAPI` · `Pydantic` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `JWT` · `Docker` · `GitHub Actions`</div>
 
 ---
 
-# 🏗️ A System View
+# A System View
 <div align="center"><img src="assets/system.svg" width="100%" alt="Production-minded AI system architecture"/></div>
 
 ---
 
-# 📈 Engineering Pulse
+# Engineering Pulse
 <div align="center"><img src="assets/pulse.svg" width="100%" alt="Engineering signal dashboard"/><br/><br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek01112002&theme=github_dark" width="100%" alt="Live GitHub contribution summary"/></div>
 <div align="center"><br/><a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://github.com/Abhishek01112002"><img src="https://img.shields.io/badge/EXPLORE%20WORK-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a></div>
 
 ---
 
-# 🧭 The AI Journey
-<div align="center"><b>FOUNDATIONS</b> → <b>MACHINE LEARNING</b> → <b>DEEP LEARNING</b> → <b>LLMs</b> → <b>RAG</b> → <b>AGENTS</b> → <b>PRODUCTION AI</b><br/><br/>`Advanced RAG` → `Hybrid Retrieval` → `Reranking` → `Multimodal RAG`<br/>`LangGraph` → `Deep Agents` → `MCP` → `Agent Evaluation`<br/>`LLM Evals` → `LLM Gateways` → `Guardrails` → `Observability`</div>
+# AI Engineering Journey
+<div align="center"><img src="assets/ai-journey.svg" width="100%" alt="AI engineering journey from fundamentals to production AI"/></div>
 
 ---
 
-# ⚡ Now
+# Current Focus
 <div align="center">| | FOCUS | WHY |
 |:--:|:--|:--|
 | **01** | **Advanced RAG** | Retrieval quality, grounding & multimodal search |
@@ -58,10 +58,12 @@
 
 ---
 
-# 🏆 Beyond Code
-<div align="center">| 🎓 | 🏅 | 🚀 |
-|:--:|:--:|:--:|
-| **B.Tech CSE**<br/>Haridwar University · 2027 | **1st Place**<br/>AI Quiz · 50+ teams | **2× Team Leader**<br/>National hackathons |</div>
+# Beyond Code
+<div align="center">
+<table>
+<tr><td align="center"><b>EDUCATION</b><br/><br/><strong>B.Tech CSE · 2027</strong><br/>Haridwar University</td><td align="center"><b>ACHIEVEMENT</b><br/><br/><strong>1st Place · AI Quiz</strong><br/>50+ teams</td><td align="center"><b>LEADERSHIP</b><br/><br/><strong>2× Team Leader</strong><br/>National hackathons</td></tr>
+</table>
+</div>
 
 ---
 
