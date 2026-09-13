@@ -18,22 +18,19 @@
 
 <br/>
 
-## ✦ The 10-second version
-
-<table>
-<tr>
-<td width="25%" align="center"><b>🧠 AI / ML</b><br/><sub>ML · DL · NLP · Statistics</sub></td>
-<td width="25%" align="center"><b>🔎 Retrieval</b><br/><sub>RAG · Embeddings · Vector DBs</sub></td>
-<td width="25%" align="center"><b>🤖 Agents</b><br/><sub>LangGraph · Tools · MCP</sub></td>
-<td width="25%" align="center"><b>⚙️ Engineering</b><br/><sub>FastAPI · PostgreSQL · Docker</sub></td>
-</tr>
-</table>
+# ✦ What I Build
 
 <div align="center">
-<sub>I build AI systems where <b>model quality, retrieval quality, reliability, latency and deployment</b> all matter.</sub>
+<img src="assets/what-i-build.svg" width="100%" alt="What I build — AI ML, retrieval, agents and engineering"/>
 </div>
 
 <br/>
+
+<div align="center">
+<sub><b>MODEL</b> → <b>RETRIEVAL</b> → <b>ORCHESTRATION</b> → <b>RELIABILITY</b> → <b>PRODUCTION</b></sub>
+</div>
+
+---
 
 # 🚀 Systems I've Built
 
@@ -82,7 +79,6 @@
 # 🧠 My AI Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,github,react,typescript,nodejs,flutter&perline=6" alt="technology stack"/>
 
 <br/><br/>
@@ -100,64 +96,36 @@
 # 🏗️ A System View
 
 <div align="center">
-
-```text
-     USER
-       │
-       ▼
- ┌───────────────┐
- │   API LAYER   │  FastAPI / Auth / Validation
- └───────┬───────┘
-         │
-    ┌────┴─────┐
-    ▼          ▼
- RETRIEVE    AGENT
-    │          │
-    ▼          ▼
- EMBEDDINGS  TOOLS / MCP
-    │          │
-    └────┬─────┘
-         ▼
-      LLM / MODEL
-         │
-    ┌────┴─────┐
-    ▼          ▼
-  EVALS     GUARDRAILS
-    │          │
-    └────┬─────┘
-         ▼
-  OBSERVABILITY
-         │
-         ▼
- PostgreSQL / Redis
-```
-
+<img src="assets/system.svg" width="100%" alt="Production-minded AI system architecture"/>
 </div>
-
-The interesting problems are not just **"how do I call an LLM?"** They are **grounding, retrieval failure, state, tool reliability, evaluation, cost, latency and safe execution**.
 
 ---
 
-# 📈 GitHub Pulse
+# 📈 Engineering Pulse
+
+<div align="center">
+<img src="assets/pulse.svg" width="100%" alt="Engineering pulse dashboard"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek01112002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek01112002&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Abhishek01112002&hide_border=true&theme=transparent" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek01112002&hide_border=true&area=true&theme=github-compact" width="96%" alt="Contribution graph"/>
+<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/Abhishek01112002"><img src="https://img.shields.io/badge/OPEN%20PROFILE-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-# 🔬 What I'm Deepening Now
+# 🧭 The AI Journey
+
+<div align="center">
+<img src="https://progress-bar.dev/88/?title=AI%20SYSTEMS&width=700&color=4f46e5" alt="AI systems progress"/>
+<br/>
+<sub>FOUNDATIONS → MACHINE LEARNING → DEEP LEARNING → LLMs → RAG → AGENTS → PRODUCTION AI</sub>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -167,16 +135,29 @@ The interesting problems are not just **"how do I call an LLM?"** They are **gro
 
 `LLM Evals`  →  `LLM Gateways`  →  `Guardrails`  →  `Observability`
 
-`DSA`  →  `System Design`  →  `MLOps`  →  `Production AI`
+</div>
+
+---
+
+# ⚡ Now
+
+<div align="center">
+
+| | FOCUS | WHY |
+|:--:|:--|:--|
+| **01** | **Advanced RAG** | Retrieval quality, grounding & multimodal search |
+| **02** | **Agentic Systems** | Stateful workflows, tools, MCP & evaluation |
+| **03** | **AI Reliability** | Evals, guardrails, observability & failure modes |
+| **04** | **Engineering Depth** | FastAPI, PostgreSQL, Docker & system design |
 
 </div>
 
 <details>
-<summary><b>📚 Learning philosophy</b></summary>
+<summary><b>📚 How I learn</b></summary>
 
 <br/>
 
-I prefer to understand the mechanism behind an abstraction rather than only memorising its API. My goal is to move from **notebook-level experimentation** toward systems that are **observable, testable, deployable and explainable**.
+I prefer understanding the mechanism behind an abstraction rather than memorising an API. The target is always the same: **observable, testable, deployable and explainable systems**.
 
 </details>
 
@@ -196,7 +177,11 @@ I prefer to understand the mechanism behind an abstraction rather than only memo
 
 <div align="center">
 
-### Building toward the point where an AI idea can become a reliable system.
+# Build. Learn. Ship. Repeat.
+
+<sub>Building toward the point where an AI idea can become a reliable system.</sub>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
