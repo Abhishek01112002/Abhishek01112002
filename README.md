@@ -40,7 +40,7 @@
 
 **AgentMark** is a full-stack multi-agent AI platform for research, strategy, copy generation, evaluation, human approval and publishing.
 
-`LangGraph` `LangChain` `RAG` `MCP` `FastAPI` `PostgreSQL` `Redis` `TypeScript`
+\`LangGraph\` \`LangChain\` \`RAG\` \`MCP\` \`FastAPI\` \`PostgreSQL\` \`Redis\` \`TypeScript\`
 
 <div align="center">
 <a href="https://github.com/Abhishek01112002/AgentMark"><img src="https://img.shields.io/badge/%20VIEW%20SOURCE%20→-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -54,7 +54,7 @@
 
 **SafeRoute** is an offline-first safety and emergency response platform combining a Flutter app, FastAPI backend and authority dashboard for constrained-connectivity environments.
 
-`Flutter` `BLE Mesh` `FastAPI` `React` `SQLite` `JWT` `Geospatial Systems`
+\`Flutter\` \`BLE Mesh\` \`FastAPI\` \`React\` \`SQLite\` \`JWT\` \`Geospatial Systems\`
 
 <div align="center">
 <a href="https://github.com/Abhishek01112002/SafeRoute"><img src="https://img.shields.io/badge/%20VIEW%20SOURCE%20→-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -63,15 +63,17 @@
 <br/>
 
 <div align="center">
-<img src="assets/rag.svg" width="100%" alt="RAG Mastery"/>
+<img src="assets/moodify.svg" width="100%" alt="Moodify"/>
 </div>
 
-**RAG Mastery** is my practical exploration of retrieval systems, including dense retrieval, vector search and multimodal PDF retrieval over text + images.
+**Moodify** is an end-to-end hybrid music recommendation engine built from scratch, combining FAISS retrieval, TF-IDF/fuzzy search, self-supervised embeddings and profile-aware two-tower ranking.
 
-`SentenceTransformers` `ChromaDB` `FAISS` `CLIP` `PyMuPDF` `LangChain`
+\`FAISS\` \`TensorFlow\` \`Two-Tower\` \`MLflow\` \`Streamlit\` \`FastAPI\`
 
 <div align="center">
-<a href="https://github.com/Abhishek01112002/RAG_Mastery"><img src="https://img.shields.io/badge/%20EXPLORE%20RAG%20→-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abhishek01112002/Moodify"><img src="https://img.shields.io/badge/%20VIEW%20SOURCE%20→-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://moodify-byabhishek.streamlit.app/"><img src="https://img.shields.io/badge/%20LIVE%20DEMO%20→-16A34A?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 </div>
 
 ---
@@ -83,12 +85,11 @@
 
 <br/><br/>
 
-**GENAI**  `RAG` · `Embeddings` · `Vector Search` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Structured Outputs` · `LLM Evals` · `Guardrails`
+**GENAI**  \`RAG\` · \`Embeddings\` · \`Vector Search\` · \`LangChain\` · \`LangGraph\` · \`MCP\` · \`Tool Calling\` · \`Structured Outputs\` · \`LLM Evals\` · \`Guardrails\`
 
-**ML**  `NumPy` · `Pandas` · `Scikit-learn` · `XGBoost` · `Feature Engineering` · `Model Evaluation` · `Deep Learning`
+**ML**  \`NumPy\` · \`Pandas\` · \`Scikit-learn\` · \`XGBoost\` · \`Feature Engineering\` · \`Model Evaluation\` · \`Deep Learning\`
 
-**ENGINEERING**  `FastAPI` · `Pydantic` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `JWT` · `Docker` · `GitHub Actions`
-
+**ENGINEERING**  \`FastAPI\` · \`Pydantic\` · \`SQLAlchemy\` · \`PostgreSQL\` · \`Redis\` · \`JWT\` · \`Docker\` · \`GitHub Actions\`
 </div>
 
 ---
@@ -104,15 +105,14 @@
 # 📈 Engineering Pulse
 
 <div align="center">
-<img src="assets/pulse.svg" width="100%" alt="Engineering pulse dashboard"/>
+<img src="assets/pulse.svg" width="100%" alt="Engineering signal dashboard"/>
 </div>
 
 <div align="center">
-
-<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/>
+<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/Abhishek01112002"><img src="https://img.shields.io/badge/OPEN%20PROFILE-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="https://github.com/Abhishek01112002"><img src="https://img.shields.io/badge/EXPLORE%20WORK-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
@@ -120,20 +120,20 @@
 # 🧭 The AI Journey
 
 <div align="center">
-<img src="https://progress-bar.dev/88/?title=AI%20SYSTEMS&width=700&color=4f46e5" alt="AI systems progress"/>
-<br/>
-<sub>FOUNDATIONS → MACHINE LEARNING → DEEP LEARNING → LLMs → RAG → AGENTS → PRODUCTION AI</sub>
+
+**FOUNDATIONS**  →  **MACHINE LEARNING**  →  **DEEP LEARNING**  →  **LLMs**  →  **RAG**  →  **AGENTS**  →  **PRODUCTION AI**
+
 </div>
 
 <br/>
 
 <div align="center">
 
-`Advanced RAG`  →  `Hybrid Retrieval`  →  `Reranking`  →  `Multimodal RAG`
+\`Advanced RAG\`  →  \`Hybrid Retrieval\`  →  \`Reranking\`  →  \`Multimodal RAG\`
 
-`LangGraph`  →  `Deep Agents`  →  `MCP`  →  `Agent Evaluation`
+\`LangGraph\`  →  \`Deep Agents\`  →  \`MCP\`  →  \`Agent Evaluation\`
 
-`LLM Evals`  →  `LLM Gateways`  →  `Guardrails`  →  `Observability`
+\`LLM Evals\`  →  \`LLM Gateways\`  →  \`Guardrails\`  →  \`Observability\`
 
 </div>
 
@@ -151,15 +151,6 @@
 | **04** | **Engineering Depth** | FastAPI, PostgreSQL, Docker & system design |
 
 </div>
-
-<details>
-<summary><b>📚 How I learn</b></summary>
-
-<br/>
-
-I prefer understanding the mechanism behind an abstraction rather than memorising an API. The target is always the same: **observable, testable, deployable and explainable systems**.
-
-</details>
 
 ---
 
