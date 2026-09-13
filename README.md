@@ -11,13 +11,13 @@
 **AgentMark** is a full-stack multi-agent AI platform for research, strategy, copy generation, evaluation, human approval and publishing.
 
 `LangGraph` `LangChain` `RAG` `MCP` `FastAPI` `PostgreSQL` `Redis` `TypeScript`
-<div align="center"><a href="https://github.com/Abhishek01112002/AgentMark"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a></div>
+<div align="center"><a href="https://github.com/Abhishek01112002/AgentMark"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://agentmark.ahishek0111.workers.dev/"><img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></div>
 
 <div align="center"><img src="assets/customer-churn.svg" width="100%" alt="Customer Churn Prediction"/></div>
 **Customer Churn Prediction** is an applied ML system for identifying customers at risk of churn, with preprocessing, feature engineering, model training and evaluation surfaced through a practical application.
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `Feature Engineering` `Model Evaluation`
-<div align="center"><a href="https://github.com/Abhishek01112002/customer-churn-prediction"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a></div>
+<div align="center"><a href="https://github.com/Abhishek01112002/customer-churn-prediction"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://customer-churn-prediction-by-abhishek.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a></div>
 
 <div align="center"><img src="assets/moodify.svg" width="100%" alt="Moodify"/></div>
 **Moodify** is an end-to-end hybrid music recommendation engine built from scratch, combining FAISS retrieval, TF-IDF/fuzzy search, self-supervised embeddings and profile-aware two-tower ranking.
