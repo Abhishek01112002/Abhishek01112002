@@ -1,146 +1,352 @@
-# Abhishek Kumar Yadav
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        ABHISHEK PROFILE README                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### AI/ML Engineer · Generative AI · RAG · Agentic Systems
+<div align="center">
 
-I build **applied AI systems** that combine machine learning, LLM applications, retrieval, agent orchestration, APIs, and data-driven product engineering.
+<a href="https://github.com/Abhishek01112002">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e3a8a&text=Abhishek%20Kumar%20Yadav&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=60&descSize=17" width="100%" alt="Abhishek Kumar Yadav"/>
+</a>
 
-My current focus is on building depth across **ML fundamentals, GenAI/LLM systems, backend engineering, DSA, MLOps, and system design**.
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Abhishek01112002">
+  <img src="https://img.shields.io/badge/GitHub-Abhishek01112002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/Abhishek01112002?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [GitHub](https://github.com/Abhishek01112002)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Building+production-minded+AI+systems;RAG+%7C+LLM+Applications+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+PostgreSQL;Learning+to+design+AI+systems+end-to-end" alt="Typing animation"/>
+
+</div>
 
 ---
 
-## Technical Focus
+## 🧭 What I Build
+
+I am a **B.Tech Computer Science student** focused on becoming an **AI/ML Engineer** who can take an idea from data and algorithms all the way to a reliable application.
+
+My strongest interests sit at the intersection of:
+
+| 🧠 AI / ML | ⚙️ AI Engineering | 🏗️ Software Engineering |
+|:---:|:---:|:---:|
+| Machine Learning | RAG & Retrieval | FastAPI |
+| Deep Learning | LLM Applications | PostgreSQL |
+| NLP | Agentic AI | REST APIs |
+| Model Evaluation | LangChain / LangGraph | Docker |
+| Statistics | LLM Evals & Guardrails | System Design |
+
+> **Current direction:** ML fundamentals → LLM systems → RAG → Agentic systems → production AI engineering.
+
+---
+
+# 🚀 Featured Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AgentMark
+
+**Multi-Agent AI Marketing Platform**
+
+A full-stack platform that orchestrates research, strategy, copywriting, evaluation, human approval and publishing through a **stateful multi-agent workflow**.
+
+**Core engineering**
+- LangGraph orchestration
+- RAG / brand context
+- Evaluation & policy gates
+- Human-in-the-loop
+- Redis Pub/Sub + Socket.IO
+- MCP integration
+- PostgreSQL + FastAPI
+
+**Stack**
+
+`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` `Redis` `MCP`
+
+<br/>
+
+<a href="https://github.com/Abhishek01112002/AgentMark">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ SafeRoute
+
+**Offline Safety & Emergency Response Platform**
+
+A multi-surface safety system designed for **remote and low-connectivity travel**, combining mobile, backend and authority-facing workflows.
+
+**Core engineering**
+- Offline-first architecture
+- BLE-based SOS relay
+- Geospatial safety zones
+- Signed relay packets
+- Idempotent SOS processing
+- JWT authorization
+- SQLite synchronization
+- FastAPI backend
+
+**Stack**
+
+`Flutter` `FastAPI` `React` `SQLite` `BLE` `JWT`
+
+<br/>
+
+<a href="https://github.com/Abhishek01112002/SafeRoute">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 RAG Mastery
+
+**Advanced & Multimodal RAG**
+
+A hands-on exploration of retrieval systems from document ingestion to **multimodal retrieval over text + PDF images**.
+
+`LangChain` `SentenceTransformers` `ChromaDB` `FAISS` `CLIP` `PyMuPDF`
+
+<br/>
+
+<a href="https://github.com/Abhishek01112002/RAG_Mastery">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Spotify Recommender
+
+**Recommendation System**
+
+A machine-learning project focused on recommendation-system concepts, data processing and similarity-based retrieval.
+
+`Python` `Pandas` `Scikit--learn` `Recommendation Systems`
+
+<br/>
+
+<a href="https://github.com/Abhishek01112002/spotify-music-recommender">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧩 AI Engineering Stack
+
+<div align="center">
 
 ### Generative AI
-LangChain · LangGraph · RAG · Embeddings · Vector Databases · Semantic Search · MCP · Tool Calling · Structured Outputs · Human-in-the-Loop
+<img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch"/>
+<br/>
+<sub>LangChain · LangGraph · RAG · Embeddings · Vector DBs · Semantic Search · MCP · Tool Calling · Structured Outputs · LLM Evaluation · Guardrails</sub>
 
-### Machine Learning & Data Science
-Python · NumPy · Pandas · Scikit-learn · Supervised Learning · Classification · Regression · Clustering · Feature Engineering · Model Evaluation · Statistics · SQL
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker" alt="FastAPI PostgreSQL Redis Docker"/>
+<br/>
+<sub>FastAPI · REST APIs · Pydantic · SQLAlchemy · PostgreSQL · Redis · JWT · Async Python</sub>
 
-### Primary Backend
-Python · FastAPI · REST APIs · SQLAlchemy · PostgreSQL · JWT
+### Software & Product
+<img src="https://skillicons.dev/icons?i=git,github,react,typescript,nodejs,flutter" alt="GitHub React TypeScript Node Flutter"/>
+<br/>
+<sub>Git · GitHub Actions · React · TypeScript · Node.js · Flutter · SQLite · Streamlit</sub>
 
-### Project Exposure
-Node.js · Express · Redis · Socket.IO · React · TypeScript · Flutter · Dart · TensorFlow · Streamlit
-
-### Engineering
-Git · GitHub · Docker · GitHub Actions · Testing · API Design · Observability · System Design
-
-> **Skill positioning:** Primary technologies are the areas I am actively building interview-level depth in. Project exposure includes technologies I have used as part of larger systems.
-
----
-
-## Featured Projects
-
-### AgentMark — Multi-Agent AI Marketing Platform
-
-A full-stack AI platform that orchestrates research, strategy, copywriting, visual prompting, evaluation, human approval, and publishing through a stateful multi-agent workflow.
-
-**Architecture**  
-React/TypeScript → Node.js/Express → FastAPI AI Service → LangGraph → Redis/PostgreSQL → MCP
-
-**Engineering highlights**
-- Stateful multi-agent orchestration with explicit workflow state and conditional routing
-- Brand-context and retrieval workflows for grounded generation
-- Independent evaluation and policy gates
-- Human-in-the-loop approval before downstream actions
-- Redis Pub/Sub and Socket.IO for realtime workflow updates
-- API validation, authentication, and service-to-service communication
-- Structured telemetry and audit logging
-- MCP integration for external AI clients
-
-**Primary AI/backend stack:** Python · FastAPI · LangGraph · LangChain · PostgreSQL · Pydantic  
-**Additional project stack:** Node.js · TypeScript · Redis · Socket.IO · MCP
-
-[View repository →](https://github.com/Abhishek01112002/AgentMark)
+</div>
 
 ---
 
-### SafeRoute — Safety & Emergency Response Platform
+# 🏗️ How I Think About AI Systems
 
-A multi-surface safety platform for remote and low-connectivity travel, combining a FastAPI backend, Flutter mobile application, and React authority dashboard.
+<div align="center">
 
-**Engineering highlights**
-- JWT-based identity and authorization
-- Geospatial safety zones, trip planning, and location awareness
-- BLE-based SOS relay for constrained connectivity
-- Idempotent SOS queueing and delivery audit trails
-- Signed relay packets with freshness and integrity validation
-- Offline-first local storage and synchronization
-- Async backend architecture with PostgreSQL-ready persistence
-- Authority dashboard for operational safety-event triage
+```text
+                         ┌─────────────────────┐
+                         │       USER / API    │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────▼──────────┐
+                         │   APPLICATION API   │
+                         │       FastAPI       │
+                         └──────────┬──────────┘
+                                    │
+                ┌───────────────────┼───────────────────┐
+                │                   │                   │
+        ┌───────▼───────┐   ┌──────▼──────┐   ┌───────▼───────┐
+        │   RETRIEVAL   │   │    AGENT    │   │   GUARDRAIL   │
+        │ Embeddings /  │   │ LangGraph  │   │  Validation / │
+        │ Vector Search │   │  + Tools   │   │    Evals      │
+        └───────┬───────┘   └──────┬──────┘   └───────┬───────┘
+                │                   │                   │
+                └───────────────────┼───────────────────┘
+                                    │
+                         ┌──────────▼──────────┐
+                         │     LLM / MODEL     │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────▼──────────┐
+                         │ OBSERVABILITY + DB  │
+                         │ PostgreSQL / Redis  │
+                         └─────────────────────┘
+```
 
-**Primary stack:** Python · FastAPI · Async SQLAlchemy  
-**Additional project stack:** Flutter · React · TypeScript · SQLite · BLE · JWT
+</div>
 
-[View repository →](https://github.com/Abhishek01112002/SafeRoute)
-
----
-
-### RAG Mastery — Advanced & Multimodal RAG
-
-A practical implementation path from document ingestion and semantic retrieval to multimodal RAG over **text and PDF images**.
-
-**Engineering highlights**
-- Recursive document splitting and metadata-aware ingestion
-- Dense embeddings with SentenceTransformers
-- ChromaDB and FAISS retrieval pipelines
-- CLIP-based joint text/image embedding space
-- PDF image extraction with PyMuPDF
-- Vision-LLM generation over retrieved multimodal context
-- Retrieval and similarity-search experimentation
-
-**Stack:** LangChain · SentenceTransformers · ChromaDB · FAISS · CLIP · PyMuPDF · Groq
-
-[View repository →](https://github.com/Abhishek01112002/RAG_Mastery)
-
----
-
-## Selected Projects
-
-| Project | What it demonstrates |
-|---|---|
-| [LangChain Mastery](https://github.com/Abhishek01112002/Langchain_Mastery) | Practical LangChain patterns and experimentation |
-| [DocAI Health Assistant](https://github.com/Abhishek01112002/DocAI-Health-Assistant) | LLM application and document-oriented workflows |
-| [Customer Churn Prediction](https://github.com/Abhishek01112002/customer-churn-prediction) | Applied ML, preprocessing, XGBoost, and evaluation |
-| [Moodify](https://github.com/Abhishek01112002/Moodify) | Recommendation-system experimentation and ranking |
-| [Spotify Music Recommender](https://github.com/Abhishek01112002/spotify-music-recommender) | Recommendation systems and data processing |
-| [Ticket Escalation System](https://github.com/Abhishek01112002/Ticket-Escalation-System) | Backend workflow and application engineering |
+I care about more than making a model answer correctly. I want to understand **retrieval quality, failure modes, latency, reliability, evaluation, data flow, and deployment boundaries**.
 
 ---
 
-## Engineering Approach
+# 📚 Currently Going Deeper
 
-- **Fundamentals first:** understand the mechanism behind the abstractions I use.
-- **Explicit boundaries:** define responsibilities, interfaces, and data flow clearly.
-- **Design for failure:** validation, authentication, idempotency, retries, and graceful degradation matter.
-- **Measure systems:** model quality, retrieval quality, latency, reliability, and resource usage should be observable.
-- **Production mindset:** move experiments toward maintainable, testable, deployable systems.
+<details>
+<summary><b>🧠 GenAI / LLM Systems</b></summary>
+
+<br/>
+
+- Advanced RAG architectures
+- Hybrid & reranked retrieval
+- Multimodal RAG
+- LangChain internals
+- LangGraph stateful workflows
+- Deep Agents
+- MCP
+- Tool calling
+- Structured generation
+- LLM evaluation
+- LLM gateways
+- Guardrails
+- Observability
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning / Deep Learning</b></summary>
+
+<br/>
+
+- Supervised & unsupervised learning
+- Feature engineering
+- Model evaluation
+- Bias / variance
+- Optimization
+- Neural networks
+- CNNs / NLP foundations
+- Transformers
+
+</details>
+
+<details>
+<summary><b>⚙️ Engineering</b></summary>
+
+<br/>
+
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- CI/CD
+- MLOps
+- API design
+- System design
+- Testing & observability
+
+</details>
+
+<details>
+<summary><b>🧮 Problem Solving</b></summary>
+
+<br/>
+
+- Data structures & algorithms
+- Hashing
+- Two pointers
+- Sliding window
+- Binary search
+- BFS / DFS
+- Interview-oriented problem solving
+
+</details>
 
 ---
 
-## Current Focus
+# 📊 GitHub Activity
 
-**DSA · Machine Learning · Deep Learning · LLM Systems · MLOps · Backend Engineering · System Design**
+<div align="center">
 
-Building the depth required to reason about AI systems end-to-end — from **data and algorithms to model behavior, system architecture, and production deployment**.
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek01112002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek01112002&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhishek01112002&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek01112002&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
+
+</div>
 
 ---
 
-## Education & Highlights
+# 🏆 Highlights
 
-**B.Tech, Computer Science & Engineering — Haridwar University**  
-Expected 2027
+<div align="center">
 
-- Data Science certification — NPTEL, IIT Madras
-- Two-time national hackathon team leader
-- 1st place in an AI quiz among 50+ teams
+| 🎓 Education | 🏅 Achievement | 🚀 Leadership |
+|:---:|:---:|:---:|
+| B.Tech CSE · Haridwar University | 1st place · AI Quiz · 50+ teams | 2× National Hackathon Team Leader |
+| Expected 2027 | NPTEL · IIT Madras | Building AI systems |
+
+</div>
 
 ---
 
-## Connect
+# 🌱 Engineering Principles
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-yadav-datascience) · [GitHub](https://github.com/Abhishek01112002)
+> **Understand the abstraction.** Don't just call the library.
 
-*Building AI systems with strong fundamentals, clear architecture, and disciplined engineering.*
+> **Design for failure.** Validation, retries, idempotency and graceful degradation matter.
+
+> **Measure the system.** Accuracy alone is not enough — retrieval, latency, cost and reliability matter too.
+
+> **Build end-to-end.** Data → model → API → system → deployment.
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Intelligent
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishek01112002&style=flat-square&color=2563EB" alt="Profile views"/>
+
+<br/><br/>
+
+<sub>Building AI systems with strong fundamentals, clear architecture, and disciplined engineering.</sub>
+
+</div>
