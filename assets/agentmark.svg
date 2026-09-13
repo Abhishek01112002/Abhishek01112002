@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs><rect width="720" height="220" rx="24" fill="#080d20"/><rect x="1" y="1" width="718" height="218" rx="23" fill="none" stroke="#26345f"/><circle cx="78" cy="110" r="42" fill="#111a38" stroke="url(#g)" stroke-width="3"/><path d="M55 122l23-32 23 32M65 111h26" fill="none" stroke="#7dd3fc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><g font-family="Inter,Segoe UI,Arial"><text x="145" y="75" fill="#94a3b8" font-size="13" letter-spacing="3">FEATURED SYSTEM</text><text x="145" y="112" fill="white" font-size="31" font-weight="800">AGENTMARK</text><text x="145" y="141" fill="#cbd5e1" font-size="16">Multi-agent AI marketing orchestration</text><text x="145" y="177" fill="#60a5fa" font-size="13">LangGraph  •  RAG  •  MCP  •  FastAPI  •  Redis</text></g><g stroke="#334155" stroke-width="1"><path d="M590 45v130M550 70h120M535 110h145M550 150h120"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050a18"/><stop offset=".55" stop-color="#0b1731"/><stop offset="1" stop-color="#15113a"/></linearGradient>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#4f8cff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132444"/><stop offset="1" stop-color="#0a1124"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="720" height="220" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="718" height="218" rx="23" fill="none" stroke="#2a426f"/>
+<circle cx="94" cy="110" r="62" fill="#071225" stroke="#365c9d" stroke-width="2"/>
+<circle cx="94" cy="110" r="34" fill="url(#glass)" stroke="url(#g)" stroke-width="3" filter="url(#glow)"/>
+<path d="M77 122l17-25 17 25M84 113h20" fill="none" stroke="#d9f2ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="none" stroke="url(#g)" stroke-width="2" opacity=".75"><path d="M46 78C18 112 41 151 78 162"/><path d="M124 58c44 22 47 86 7 111"/></g>
+<g fill="#71d8ff"><circle cx="43" cy="81" r="4"/><circle cx="140" cy="157" r="4"/><circle cx="132" cy="58" r="4"/></g>
+<g font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+ <text x="186" y="63" fill="#8fa5c3" font-size="14" font-weight="600" letter-spacing="3">FLAGSHIP AI SYSTEM</text>
+ <text x="186" y="108" fill="#ffffff" font-size="39" font-weight="800" letter-spacing="-1">AGENTMARK</text>
+ <text x="186" y="139" fill="#d8e1ee" font-size="18" font-weight="500">Multi-agent marketing intelligence platform</text>
+ <g fill="#80b9ff" font-size="14" font-weight="700"><text x="186" y="177">LANGGRAPH</text><text x="286" y="177">RAG</text><text x="337" y="177">MCP</text><text x="391" y="177">FASTAPI</text><text x="474" y="177">REDIS</text></g>
+</g>
+<g fill="none" stroke="#365071" stroke-width="1.2" opacity=".8"><rect x="560" y="42" width="116" height="136" rx="16"/><path d="M585 70h66M585 94h45M585 118h72M585 142h53"/></g>
+<g fill="url(#g)" opacity=".8"><circle cx="586" cy="69" r="3"/><circle cx="586" cy="93" r="3"/><circle cx="586" cy="117" r="3"/></g>
+</svg>
