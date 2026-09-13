@@ -27,6 +27,32 @@
 
 ---
 
+# Engineering Proof
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><strong>19</strong><br/><sub>Moodify unit tests</sub></td>
+<td align="center" width="25%"><strong>0.47</strong><br/><sub>Precision@10</sub></td>
+<td align="center" width="25%"><strong>0.49</strong><br/><sub>NDCG@10</sub></td>
+<td align="center" width="25%"><strong>CI</strong><br/><sub>GitHub Actions</sub></td>
+</tr>
+</table>
+</div>
+
+<div align="center"><sub>Measured work over claims — retrieval quality, testing, evaluation and production engineering.</sub></div>
+
+---
+
+# Experience
+<div align="center">
+
+### AI/ML Engineer Intern · Novateches Software Pvt. Ltd.
+**On-site**
+
+</div>
+
+---
+
 # My AI Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,github,react,typescript,nodejs,flutter&perline=6" alt="technology stack"/><br/><br/><b>GENAI</b> · `RAG` · `Embeddings` · `Vector Search` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Structured Outputs` · `LLM Evals` · `Guardrails`<br/><br/><b>ML</b> · `NumPy` · `Pandas` · `Scikit-learn` · `XGBoost` · `Feature Engineering` · `Model Evaluation` · `Deep Learning`<br/><br/><b>ENGINEERING</b> · `FastAPI` · `Pydantic` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `JWT` · `Docker` · `GitHub Actions`</div>
 
@@ -62,4 +88,4 @@
 
 ---
 
-<div align="center"># Build. Learn. Ship. Repeat.<br/><sub>Building toward the point where an AI idea can become a reliable system.</sub><br/><br/><a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/><img src="https://komarev.com/ghpvc/?username=Abhishek01112002&style=flat-square&color=3B82F6" alt="Profile views"/></div>
+<div align="center"># Build. Learn. Ship.<br/><sub>Designing reliable AI systems across retrieval, orchestration and production engineering.</sub><br/><br/><a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/><img src="https://komarev.com/ghpvc/?username=Abhishek01112002&style=flat-square&color=3B82F6" alt="Profile views"/></div>
