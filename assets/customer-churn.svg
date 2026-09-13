@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f97316"/><stop offset="1" stop-color="#ef4444"/></linearGradient><linearGradient id="gl" x1="0" x2="1"><stop stop-color="#fb923c"/><stop offset="1" stop-color="#f87171"/></linearGradient></defs><rect width="720" height="220" rx="24" fill="#160d0b"/><rect x="1" y="1" width="718" height="218" rx="23" fill="none" stroke="#4d2a24"/><circle cx="78" cy="110" r="42" fill="#291612" stroke="url(#g)" stroke-width="3"/><path d="M54 131V96M54 131h48M64 121l14-17 12 9 18-29" fill="none" stroke="#fdba74" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="108" cy="84" r="5" fill="#fb7185"/><g font-family="Inter,Segoe UI,Arial"><text x="145" y="75" fill="#a8a29e" font-size="13" letter-spacing="3">MACHINE LEARNING SYSTEM</text><text x="145" y="112" fill="white" font-size="31" font-weight="800">CUSTOMER CHURN</text><text x="145" y="141" fill="#e7e5e4" font-size="16">Retention prediction with explainable classification</text><text x="145" y="177" fill="#fdba74" font-size="13">Python  •  Scikit-learn  •  XGBoost  •  Feature Engineering</text></g><g fill="none" stroke="url(#gl)" stroke-width="2"><path d="M545 156h120"/><path d="M545 126h84"/><path d="M545 96h55"/></g><g fill="#f97316"><circle cx="545" cy="156" r="5"/><circle cx="545" cy="126" r="5"/><circle cx="545" cy="96" r="5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#140b0a"/><stop offset=".55" stop-color="#1c1011"/><stop offset="1" stop-color="#271016"/></linearGradient>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#fb923c"/><stop offset=".55" stop-color="#f43f5e"/><stop offset="1" stop-color="#ef4444"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#27171a"/><stop offset="1" stop-color="#160f16"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="720" height="220" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="718" height="218" rx="23" fill="none" stroke="#5a2b34"/>
+<circle cx="90" cy="108" r="62" fill="#1d1014" stroke="#713545" stroke-width="2"/>
+<path d="M55 129V94M55 129h62" fill="none" stroke="#b86b78" stroke-width="3"/>
+<path d="M66 119l15-19 13 10 20-31" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+<circle cx="114" cy="79" r="5" fill="#fb7185"/>
+<g font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+ <text x="174" y="62" fill="#b8a5a8" font-size="14" font-weight="600" letter-spacing="3">MACHINE LEARNING · PREDICTIVE ANALYTICS</text>
+ <text x="174" y="108" fill="#ffffff" font-size="36" font-weight="800" letter-spacing="-1">CUSTOMER CHURN</text>
+ <text x="174" y="139" fill="#eadde0" font-size="18" font-weight="500">Predict churn risk before customers leave.</text>
+ <g fill="#ffb36b" font-size="14" font-weight="700"><text x="174" y="177">XGBOOST</text><text x="262" y="177">SCIKIT-LEARN</text><text x="386" y="177">FEATURE ENGINEERING</text></g>
+</g>
+<g transform="translate(545 42)"><rect width="125" height="136" rx="18" fill="url(#card)" stroke="#4d2934"/>
+ <text x="20" y="28" fill="#9f8790" font-size="10" font-weight="700" letter-spacing="2">RISK SIGNAL</text>
+ <text x="20" y="61" fill="#fff" font-size="27" font-weight="800">26%</text><text x="20" y="77" fill="#b9a4a9" font-size="10">HIGH-RISK CUSTOMERS</text>
+ <path d="M20 112C35 99 43 109 56 96S78 88 91 75S106 78 110 60" fill="none" stroke="url(#g)" stroke-width="3"/>
+ <circle cx="110" cy="60" r="4" fill="#fb7185" filter="url(#glow)"/>
+ <path d="M20 121h90" stroke="#4c3038"/>
+</g>
+</svg>
