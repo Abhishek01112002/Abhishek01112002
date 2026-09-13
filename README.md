@@ -49,12 +49,7 @@
 ---
 
 # Current Focus
-<div align="center">| | FOCUS | WHY |
-|:--:|:--|:--|
-| **01** | **Advanced RAG** | Retrieval quality, grounding & multimodal search |
-| **02** | **Agentic Systems** | Stateful workflows, tools, MCP & evaluation |
-| **03** | **AI Reliability** | Evals, guardrails, observability & failure modes |
-| **04** | **Engineering Depth** | FastAPI, PostgreSQL, Docker & system design |</div>
+<div align="center"><img src="assets/current-focus.svg" width="100%" alt="Current AI engineering focus"/></div>
 
 ---
 
