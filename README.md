@@ -1,91 +1,124 @@
-<div align="center"><img src="assets/hero.svg" width="100%" alt="Abhishek Kumar Yadav — AI ML Engineer GenAI RAG Agentic Systems"/><br/><a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-111827?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;<a href="mailto:ahishek0111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a><br/><br/><img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&weight=600&pause=1100&color=4EA1FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%E2%86%92+LLM+Systems+%E2%86%92+Production+AI;RAG+%7C+Agents+%7C+Evaluation+%7C+Guardrails;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+LangGraph" alt="focus animation"/></div>
+<div align="center">
+<img src="assets/hero.svg" width="100%" alt="Abhishek Kumar Yadav — AI ML Engineer, RAG and Agentic AI"/>
 
-# What I Build
-<div align="center"><img src="assets/what-i-build.svg" width="100%" alt="What I build — AI ML, retrieval, agents and engineering"/></div>
-<div align="center"><b>MODEL</b> → <b>RETRIEVAL</b> → <b>ORCHESTRATION</b> → <b>RELIABILITY</b> → <b>PRODUCTION</b></div>
+<br/>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">LinkedIn</a> · <a href="https://github.com/Abhishek01112002?tab=repositories">Projects</a> · <a href="mailto:ahishek0111@gmail.com">Email</a>
+
+<br/><br/>
+
+<strong>AI/ML Engineer · RAG · LLM Agents · Recommender Systems</strong><br/>
+<sub>B.Tech CSE '27 · Open to AI/ML internships & full-time roles</sub>
+</div>
 
 ---
 
-# Systems I've Built
+# What I Build
+
+I build AI systems across **machine learning, retrieval, agent orchestration and production engineering**.
+
+<div align="center">
+<img src="assets/what-i-build.svg" width="100%" alt="AI engineering capabilities"/>
+</div>
+
+# Selected Work
+
+### AgentMark
+
 <div align="center"><img src="assets/agentmark.svg" width="100%" alt="AgentMark"/></div>
-**AgentMark** is a full-stack multi-agent AI platform for research, strategy, copy generation, evaluation, human approval and publishing.
 
-`LangGraph` `LangChain` `RAG` `MCP` `FastAPI` `PostgreSQL` `Redis` `TypeScript`
-<div align="center"><a href="https://github.com/Abhishek01112002/AgentMark"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://agentmark.ahishek0111.workers.dev/"><img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></div>
+Production-style multi-agent AI platform for research, strategy, copy generation, evaluation, human approval and publishing.
 
-<div align="center"><img src="assets/customer-churn.svg" width="100%" alt="Customer Churn Prediction"/></div>
-**Customer Churn Prediction** is an applied ML system for identifying customers at risk of churn, with preprocessing, feature engineering, model training and evaluation surfaced through a practical application.
+**Stack:** LangGraph · LangChain · RAG · MCP · FastAPI · PostgreSQL · Redis · TypeScript
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Feature Engineering` `Model Evaluation`
-<div align="center"><a href="https://github.com/Abhishek01112002/customer-churn-prediction"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://customer-churn-prediction-by-abhishek.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a></div>
+<a href="https://agentmark.ahishek0111.workers.dev/">Live Demo</a> · <a href="https://github.com/Abhishek01112002/AgentMark">Source</a>
+
+### Moodify
 
 <div align="center"><img src="assets/moodify.svg" width="100%" alt="Moodify"/></div>
-**Moodify** is an end-to-end hybrid music recommendation engine built from scratch, combining FAISS retrieval, TF-IDF/fuzzy search, self-supervised embeddings and profile-aware two-tower ranking.
 
-`FAISS` `TensorFlow` `Two-Tower` `MLflow` `Streamlit` `FastAPI`
-<div align="center"><a href="https://github.com/Abhishek01112002/Moodify"><img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://moodify-byabhishek.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-16A34A?style=for-the-badge&logo=streamlit&logoColor=white"/></a></div>
+Hybrid recommendation engine combining FAISS retrieval, TF-IDF/fuzzy search, self-supervised embeddings and a profile-aware two-tower model.
+
+**Stack:** FAISS · TensorFlow · Two-Tower · MLflow · Streamlit · FastAPI
+
+<a href="https://moodify-byabhishek.streamlit.app/">Live Demo</a> · <a href="https://github.com/Abhishek01112002/Moodify">Source</a>
+
+### Customer Churn Prediction
+
+<div align="center"><img src="assets/customer-churn.svg" width="100%" alt="Customer Churn Prediction"/></div>
+
+End-to-end churn prediction system with feature engineering, SMOTE-safe pipelines, model evaluation, FastAPI and an interactive dashboard.
+
+**Stack:** Python · Scikit-learn · XGBoost · FastAPI · Streamlit · Docker
+
+<a href="https://customer-churn-prediction-by-abhishek.streamlit.app/">Live Demo</a> · <a href="https://github.com/Abhishek01112002/customer-churn-prediction">Source</a>
 
 ---
 
 # Engineering Proof
+
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><strong>19</strong><br/><sub>Moodify unit tests</sub></td>
-<td align="center" width="25%"><strong>0.47</strong><br/><sub>Precision@10</sub></td>
-<td align="center" width="25%"><strong>0.49</strong><br/><sub>NDCG@10</sub></td>
-<td align="center" width="25%"><strong>CI</strong><br/><sub>GitHub Actions</sub></td>
+<td align="center"><strong>19</strong><br/><sub>Moodify tests</sub></td>
+<td align="center"><strong>0.47</strong><br/><sub>Precision@10</sub></td>
+<td align="center"><strong>0.49</strong><br/><sub>NDCG@10</sub></td>
+<td align="center"><strong>CI</strong><br/><sub>GitHub Actions</sub></td>
 </tr>
 </table>
 </div>
 
-<div align="center"><sub>Measured work over claims — retrieval quality, testing, evaluation and production engineering.</sub></div>
+<sub>Offline evaluation uses mood/genre proxy relevance labels; these metrics are not directly comparable to real user-interaction benchmarks.</sub>
 
 ---
 
 # Experience
-<div align="center">
 
 ### AI/ML Engineer Intern · Novateches Software Pvt. Ltd.
-**On-site**
+**On-site · 2 months**
 
+- Built **AgentMark**, a full-stack multi-agent AI platform with **8 specialized workflow roles** spanning research, strategy, copy, evaluation, approval and publishing.
+- Orchestrated **LangGraph + LangChain + RAG + MCP**, integrating **3 LLM providers** (Gemini, OpenAI and Groq) behind a provider abstraction.
+- Shipped a production-style stack with **FastAPI, PostgreSQL, Redis, TypeScript** and realtime Redis → Socket.IO events, with a human approval gate and live Cloudflare deployment.
+
+**Technologies:** LangGraph · LangChain · RAG · MCP · FastAPI · PostgreSQL · Redis · TypeScript
+
+---
+
+# Technology
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,github,react,typescript,nodejs,flutter&perline=6" alt="technology stack"/>
+
+<br/><br/>
+
+**GenAI** · RAG · Embeddings · Vector Search · LangChain · LangGraph · MCP · Tool Calling · LLM Evals · Guardrails
+
+**ML** · NumPy · Pandas · Scikit-learn · XGBoost · Deep Learning · Recommendation Systems
+
+**Engineering** · FastAPI · Pydantic · SQLAlchemy · PostgreSQL · Redis · Docker · GitHub Actions
 </div>
 
 ---
 
-# My AI Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,github,react,typescript,nodejs,flutter&perline=6" alt="technology stack"/><br/><br/><b>GENAI</b> · `RAG` · `Embeddings` · `Vector Search` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Structured Outputs` · `LLM Evals` · `Guardrails`<br/><br/><b>ML</b> · `NumPy` · `Pandas` · `Scikit-learn` · `XGBoost` · `Feature Engineering` · `Model Evaluation` · `Deep Learning`<br/><br/><b>ENGINEERING</b> · `FastAPI` · `Pydantic` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `JWT` · `Docker` · `GitHub Actions`</div>
+# System View
 
----
-
-# A System View
 <div align="center"><img src="assets/system.svg" width="100%" alt="Production-minded AI system architecture"/></div>
 
 ---
 
-# Engineering Pulse
-<div align="center"><img src="assets/pulse.svg" width="100%" alt="Engineering signal dashboard"/><br/><br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek01112002&theme=github_dark" width="100%" alt="Live GitHub contribution summary"/></div>
-<div align="center"><br/><a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://github.com/Abhishek01112002"><img src="https://img.shields.io/badge/EXPLORE%20WORK-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a></div>
-
----
-
-# AI Engineering Journey
-<div align="center"><img src="assets/ai-journey.svg" width="100%" alt="AI engineering journey from fundamentals to production AI"/></div>
-
----
-
-# Current Focus
-<div align="center"><img src="assets/current-focus.svg" width="100%" alt="Current AI engineering focus"/></div>
-
----
-
 # Beyond Code
+
 <div align="center">
-<table>
-<tr><td align="center"><b>EDUCATION</b><br/><br/><strong>B.Tech CSE · 2027</strong><br/>Haridwar University</td><td align="center"><b>ACHIEVEMENT</b><br/><br/><strong>1st Place · AI Quiz</strong><br/>50+ teams</td><td align="center"><b>LEADERSHIP</b><br/><br/><strong>2× Team Leader</strong><br/>National hackathons</td></tr>
-</table>
+<strong>B.Tech CSE · 2027</strong> · Haridwar University &nbsp;|&nbsp;
+<strong>1st Place</strong> · AI Quiz (50+ teams) &nbsp;|&nbsp;
+<strong>2× Team Leader</strong> · National Hackathons
 </div>
 
 ---
 
-<div align="center"># Build. Learn. Ship.<br/><sub>Designing reliable AI systems across retrieval, orchestration and production engineering.</sub><br/><br/><a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/><img src="https://komarev.com/ghpvc/?username=Abhishek01112002&style=flat-square&color=3B82F6" alt="Profile views"/></div>
+<div align="center">
+<strong>Build. Learn. Ship.</strong><br/>
+<sub>Designing reliable AI systems across retrieval, orchestration and production engineering.</sub><br/><br/>
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">Let's connect</a>
+</div>
