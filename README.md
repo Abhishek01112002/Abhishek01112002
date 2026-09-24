@@ -7,8 +7,7 @@
 
 <br/><br/>
 
-<strong>AI/ML Engineer · RAG · LLM Agents · Recommender Systems</strong><br/>
-<sub>B.Tech CSE '27 · Open to AI/ML internships & full-time roles</sub>
+<strong>AI/ML Engineer · RAG · LLM Agents · Recommender Systems | B.Tech CSE '27 | Built AgentMark</strong>
 </div>
 
 ---
