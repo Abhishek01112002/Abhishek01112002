@@ -1,16 +1,14 @@
 <div align="center">
-<img src="assets/hero.svg" width="100%" alt="Abhishek Kumar Yadav — AI ML Engineer, RAG and Agentic AI"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">LinkedIn</a> · <a href="https://github.com/Abhishek01112002?tab=repositories">Projects</a> · <a href="mailto:abhishekkryadav01112002@gmail.com">Email</a>
-
+<img src="assets/hero.svg" width="100%" alt="Abhishek Kumar Yadav — AI ML Engineer GenAI RAG Agentic Systems"/><br/>
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Abhishek01112002?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-111827?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:abhishekkryadav01112002@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br/><br/>
-
-<strong>AI/ML Engineer · RAG · LLM Agents · Recommender Systems | B.Tech CSE '27 | Built AgentMark</strong>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1100&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning+%E2%86%92+LLM+Systems+%E2%86%92+Production+AI;RAG+%7C+Agents+%7C+Evaluation+%7C+Guardrails;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+LangGraph" alt="focus animation"/>
 </div>
 
 ---
+
 
 # What I Build
 
