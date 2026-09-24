@@ -3,7 +3,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">LinkedIn</a> · <a href="https://github.com/Abhishek01112002?tab=repositories">Projects</a> · <a href="mailto:ahishek0111@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-datascience">LinkedIn</a> · <a href="https://github.com/Abhishek01112002?tab=repositories">Projects</a> · <a href="mailto:abhishekkryadav01112002@gmail.com">Email</a>
 
 <br/><br/>
 
